@@ -1,7 +1,7 @@
 {
     "diploma":[
         {
-            "num":"1",
+            "num":"39",
             "name":"Google IT Support Professional ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
             "granted":"Google",
@@ -12,7 +12,7 @@
             "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
         },
         {
-            "num":"2",
+            "num":"38",
             "name":"Custom Dynamic Blog",
             "description":"Build a dynamic blog website,developed a database based on industry standards, also adding admin panel with the front-end blog pages while debugging code when errores where encountered.",
             "granted":"Udemy - Parth Modi",
@@ -23,7 +23,7 @@
             "online":"'https://www.udemy.com/certificate/UC-ef689b7b-0ce3-4f6e-86f9-c15b31e28d5c/'"
         },
         {
-            "num":"3",
+            "num":"37",
             "name":"Harvard Data Management ",
             "description":"Data Management Online: The Great Data Cleanup Campaign by Harvard Data Management, a data cleaning and analysis course, working with domain-specific data services, while preparing for sensitive data using best practices for research data management; make your data understandable, easy to analyze, and readily available to the wider community, applicable to both scientistsand librarians.",
             "granted":"Harvard - Julie Goldman",
@@ -34,7 +34,7 @@
             "online":"NONE"
         },
         {
-            "num":"4",
+            "num":"36",
             "name":"Virtual Research Forum",
             "description":"Virtual Research Forum 2021 Technology and Innovation in Industry 4.0, The Industry 4.0 is the stage of industrial development in which digital technologies and the means of production are linked to generate smart factories. In this new stage of global production, the Internet, digitization, Artificial Intelligence, Big Data, the Internet of Things and cloud services occupy a strategic and priority place.",
             "granted":" Aliat Universities - Miguel Alexander",
@@ -45,7 +45,7 @@
             "online":"NONE"
         },
         {
-            "num":"5",
+            "num":"35",
             "name":"Talent Land - Participation",
             "description":"Participated in the first edition of Talent Land Latin America from Jalisco: the most important meeting of technology, entrepreneurship, and professional development through the internet. Asisted to Future Land, Developer Land, & Agro Land",
             "granted":"Talent Land - Iván Milán",
@@ -56,7 +56,7 @@
             "online":"NONE"
         },
         {
-            "num":"7",
+            "num":"34",
             "name":"Week of knowledge & Innovation",
             "description":"For the participation in the week of knowledge and entrepreneurship of the transversal subjects 'development and administration of projects' obtaining 1st place with the STEM Offline project.",
             "granted":"Aliat Universities",
@@ -67,7 +67,7 @@
             "online":"'www.harvard.com'"
         },
         {
-            "num":"8",
+            "num":"33",
             "name":"T4 Education",
             "description":"T4 is a global organisation that are committed to providing engaging tools, initiatives and events for teachers to improve education, committed to advancing education by providing a superb service to schools and teachers alike.",
             "granted":"T4 Education - Vikas Pota",
@@ -78,7 +78,7 @@
             "online":"NONE"
         },
         {
-            "num":"9",
+            "num":"32",
             "name":"DragonJar Congress",
             "description":"Every year, in the first days of September, the Computer Security Congress DragonJAR Security Conference (DragonJARCON) is held without fail, an event that shows the modern techniques used by hackers to violate information systems, as well as their counter-measures and responsibility for information security.",
             "granted":"DragonJar - Jaime Andres",
@@ -89,7 +89,7 @@
             "online":"'https://www.dragonjarcon.org/certificado/6d7b35746811bc32942ca707b7b4c8c3/'"
         },
         {
-            "num":"10",
+            "num":"31",
             "name":"Anti plagiarism & use of Tur.",
             "description":"The Turnitin anti-plagiarism program, a tool crosses thousands of data and provides a coincidence report from which it is possible to understand the amount of plagiarism within a job. The activities of this program include the skills",
             "granted":"Turnitin - Max A. Garza",
@@ -100,7 +100,7 @@
             "online":"NONE"
         },
         {
-            "num":"11",
+            "num":"30",
             "name":"Hackathon Last Mile",
             "description":"The purpose was to encourage technological solutions to improve the operation of urban logistics in Mexican cities, through the location and operation of loading and unloading bays in public spaces with mobility problems.",
             "granted":"Sustainable Transportation Program - Stephanie Hartmann",
@@ -111,7 +111,7 @@
             "online":"NONE"
         },
         {
-            "num":"12",
+            "num":"29",
             "name":"SEO Marketing",
             "description":"SEO: Present & Future of Marketing, Content marketing is the lifeblood of all digital marketing techniques. So knowing about the marketing industry, content marketing, and SEO is fundamental.",
             "granted":"Aliat Universities - Eva Rocio",
@@ -122,7 +122,7 @@
             "online":"NONE"
         },
         {
-            "num":"13",
+            "num":"28",
             "name":"DragonJAR Conference",
             "description":"Every year, in the first days of September, the Computer Security Congress DragonJAR Security Conference (DragonJARCON) is held without fail, an event that shows the modern techniques used by hackers to violate information systems, as well as their counter-measures and responsibility for information security.",
             "granted":"DragonJar - Jaime Andres",
@@ -133,7 +133,7 @@
             "online":"'https://www.dragonjar.education/certificate/55001214856/'"
         },
         {
-            "num":"14",
+            "num":"26",
             "name":"Hackathon AvocadoHack",
             "description":"Developed a system to identify the most suitable grounds so the user can be saving in analysis costs and obtaining valueble information.",
             "granted":"SICYT - Alfonso Pompa",
@@ -144,7 +144,7 @@
             "online":"NONE"
         },
         {
-            "num":"15",
+            "num":"25",
             "name":"Corporate Image",
             "description":"I learned that corporate image is the way a company is perceived by the public. It is the sum of all the company's actions, products, and communications. Creating and maintaining a positive corporate image is essential to a company's success. There are many ways to improve a company's corporate image. One way is to make sure that all of the company's communications are clear, concise, and professional. Another way is to make sure that the company's products are of high quality and meet the needs of the customer. Finally, it is important to make sure that the company treats its employees well and provides a positive work environment.",
             "granted":"Aliat Universities - Sthefanie Borrego",
@@ -155,7 +155,7 @@
             "online":"NONE"
         },
         {
-            "num":"16",
+            "num":"24",
             "name":"Platzi Conf",
             "description":"PlatziConf is a cycle of online conferences where prominent personalities from different industries share with you their knowledge of web development, creativity, marketing and entrepreneurship.",
             "granted":"Platzi - John Freddy",
@@ -166,7 +166,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/2549-platziconf2021/diploma/detalle/'"
         },
         {
-            "num":"17",
+            "num":"23",
             "name":"Design Thinking",
             "description":"Design thinking is a powerful tool all professionals can benefit from. By developing design thinking skills, you become a more creative problem-solver, regardless of your role. This, in turn, can empower you to embrace and facilitate innovation within our organization to effect real, lasting change.",
             "granted":"Aliat Universities - Eva Rocio",
@@ -177,7 +177,7 @@
             "online":"NONE"
         },
         {
-            "num":"18",
+            "num":"22",
             "name":"Windows Development Setup",
             "description":"Set up Windows as a professional environment for development. Learn how to properly set up Windows Subsystem Linux or WSL, set up SSH keys, install Visual Studio Code, and get to know the basic flow of Git.            ",
             "granted":"Platzi - ",
@@ -188,7 +188,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/2042-prework-windows/diploma/detalle/'"
         },
         {
-            "num":"19",
+            "num":"21",
             "name":"Personal Brand Challenge",
             "description":"Develop your personal brand to achieve your professional goals. In this challenge I managed to understand where I wanted to direct my professional career, developing a digital identity, and generating a portfolio or blog that would open the doors to new opportunities to change your professional life.",
             "granted":"Platzi - Platzi Team",
@@ -210,7 +210,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1951-slack/diploma/detalle/'"
         },
         {
-            "num":"21",
+            "num":"19",
             "name":"Mathematician Fundamentals",
             "description":"Learned .....",
             "granted":"Platzi",
@@ -221,7 +221,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1393-fundamentos-matematicas/diploma/detalle/'"
         },
         {
-            "num":"22",
+            "num":"18",
             "name":"Google Suites",
             "description":"Increased the efficiency with Google Suite. Discovered the potential of Google Calendar, Hangouts, Gmail, Drive, Docs, Spreadsheets, Forms, and Kept all the tools that make up the suite. Improved processes, organize information, and communicate collaboratively with your team.",
             "granted":"Platzi",
@@ -232,7 +232,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1401-google-suite/diploma/detalle/'"
         },
         {
-            "num":"23",
+            "num":"17",
             "name":"Software Fundamentals",
             "description":"Understand how the basics of electronics work, the different operating systems and the networks that allow you to use the Internet.",
             "granted":"Platzi - Freddy Vega",
@@ -243,7 +243,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1098-ingenieria/diploma/detalle/'"
         },
         {
-            "num":"24",
+            "num":"16",
             "name":"Data engineering",
             "description":"Data Engineering with Python. Generates a data set capable of generating predictions from machine learning algorithms. Find ideal data sources. Treat, clean and list information to create your dataset and take the first step to train in the Data Science Career.",
             "granted":"Platzi - David Aroesti",
@@ -254,7 +254,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1385-ingenieria-datos/diploma/detalle/'"
         },
         {
-            "num":"25",
+            "num":"15",
             "name":"Oratory and public speaking",
             "description":"I learned to build successful speeches, design presentations for conferences, learn to improvise live and Overcome the fear of public speaking",
             "granted":"Platzi - Freddy Vega",
@@ -265,7 +265,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1285-hablar-en-publico/diploma/detalle/'"
         },
         {
-            "num":"26",
+            "num":"14",
             "name":"Linux Development Setup",
             "description":"I learned to Implement a basic flow with Git and Github, configure and install text editor, knowing features of browsers tools and install a Linux operating system",
             "granted":"Platzi - Enrique Devars",
@@ -276,7 +276,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/2383-prework-linux/diploma/detalle/'"
         },
         {
-            "num":"27",
+            "num":"13",
             "name":"Technology For Managers",
             "description":"Understand case studies for quick decision making, Negotiate salaries and interview expert profiles, Shield your company against hackers, Understand project costs and delivery dates",
             "granted":"Platzi - Freddy Vega",
@@ -287,7 +287,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/1882-tecnologia-gerentes/diploma/detalle/'"
         },
         {
-            "num":"28",
+            "num":"12",
             "name":"Introducction Jamstack",
             "description":"Created website using Jamstack best practices. Published my project, bought a domain, found possible optimizations with Google Search Console and measured my website data with Google Analytics.  Optimized my code for SEO Connect Google Analytics with my site and measured visitor data. Published my project on Netlify without the need for a server. Use the best practices of Javascript, APIs and markup",
             "granted":"Platzi - Oscar Barajas",
@@ -298,7 +298,7 @@
             "online":"'https://platzi.com/p/jimmy-james/curso/2410-jamstack/diploma/detalle/'"
         },
         {
-            "num":"29",
+            "num":"11",
             "name":"Mastering Visual Code",
             "description":"Installed and personalized Visual Studio Code, learned to use the best tools to create and develop applications.",
             "granted":"Udemy - Alex Horea",
@@ -309,7 +309,7 @@
             "online":"'https://www.udemy.com/certificate/UC-9c0fa6a0-f481-45cd-b3cd-d1e08d68635e/'"
         },
         {
-            "num":"30",
+            "num":"10",
             "name":"Github",
             "description":"Learned how to use Github to share code, manage projects and collaborate with other developers.",
             "granted":"GitHub Team",
@@ -320,7 +320,7 @@
             "online":"NONE"
         },
         {
-            "num":"31",
+            "num":"9",
             "name":"Visual Basic Progr.",
             "description":"Learned how to use Visual Basic to create programs and develop applications.",
             "granted":"Cetec - Alfonso Mata",
@@ -331,7 +331,7 @@
             "online":"NONE"
         },
         {
-            "num":"32",
+            "num":"8",
             "name":"Science & Tecnology",
             "description":"Represented the institution in the Science and Technology Fair, where exposed the subject of electromagnetism with the project of the cotton balance, in which the calculations were made to corroborate the results obtained.",
             "granted":"COBAEV - Felipe Serrano ",
@@ -342,7 +342,7 @@
             "online":"NONE"
         },
         {
-            "num":"33",
+            "num":"7",
             "name":"RED",
             "description":"Represented Computacion del Golfo in the expo-science fair, where we presented a C# game for kids to learn English in Mexio, using augmented reality.",
             "granted":"RED - Manuel Hernandez",
@@ -353,7 +353,7 @@
             "online":"'https://www.academia.edu/36809024/Ingles_para_ni%C3%B1os_con_realidad_aumentada'"
         },
         {
-            "num":"34",
+            "num":"6",
             "name":"Aliat World",
             "description":"1st place in the “Knowledge and entrepreneurship Expo-science 2019”: Event organized by Grijalva Valley University from Chiapas (UVG). 50 Teams (Created Smart Shower (Shower Control, Tempture Control, Voice Command, Presence sensor)",
             "granted":"Aliat Universities",
@@ -364,7 +364,7 @@
             "online":"NONE"
         },
         {
-            "num":"35",
+            "num":"5",
             "name":"Bites of Audiovisual Production",
             "description":"Find inspirational techniques for video editing, identify the importance of colorization, learn best practices for streaming, select the right microphone for my project",
             "granted":"Platzi - Production Team",
@@ -375,7 +375,7 @@
             "online":"https://platzi.com/p/jimmy-james/curso/2169-bites-produccion-audiovisual/diploma/detalle/"
         },
         {
-            "num":"35",
+            "num":"4",
             "name":"Generation & strengthenin",
             "description":"Generation & strengthening of youth leadership, presented ideas and plans of innovations in front of the public, and learned diferente tecniques to represent my community.",
             "granted":"Aliat Universities",
@@ -386,7 +386,7 @@
             "online":"NONE"
         },
         {
-            "num":"36",
+            "num":"3",
             "name":"Specialty in Computer Science",
             "description":"Introduction to the understanding how and why technologies work, exploring whether and how technology could solve real-life problems, investigating procedures, creating solutions, and learning about computing systems, programming, data, networks, and the effects on society and the individual.",
             "granted":"Cobaev",
@@ -397,7 +397,7 @@
             "online":"NONE"
         },
         {
-            "num":"37",
+            "num":"2",
             "name":"IT Support",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer",
             "granted":"Computacion del Golfo",
@@ -408,7 +408,7 @@
             "online":"NONE"
         },
         {
-            "num":"38",
+            "num":"1",
             "name":"Tecnovation Girls",
             "description":"Worked with a colleague to help guide girls as they use technology to solve problems like bullying, elder neglect, and climate change by creating solutions to real problems using technology.",
             "granted":"Harvard",
