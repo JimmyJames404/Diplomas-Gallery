@@ -17,10 +17,10 @@ fetch("data.json")
           var pdf = galleryD[i].pdf;
           var simple 
           if (online != 'NONE') {
-            var simple = '<button type="button" class="btn btn-default" onclick="window.location.href='+online+'" target="_blank" >ORIGINAL SITE</button>' 
+            var simple = '<span style="float:left;"><form action='+online+' method="get" target="_blank"><button type="submit" class="btn btn-default">ORIGINAL SITE</button></form></span>' 
             } 
           else {
-            var simple ="<br>"
+            var simple =""
           }
 
 
@@ -43,8 +43,13 @@ fetch("data.json")
                       '<p><b>Description :</b> '+description+'</p>' +
                     '</div>' +
                     '<div class="modal-footer">' +
-                      '<button type="button" class="btn btn-default" onclick="window.location.href='+pdf+'" target="_blank" >PDF</button>' +                        '<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>'+
                       simple +
+                      '<span style="float:left;">'+
+                      '<form action='+pdf+' method="get" target="_blank">'+
+                      '<button type="submit" class="btn btn-default">PDF</button>' +  
+                      '<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>'+  
+                      '</form>' +   
+                      '<span>' +          
                     '</div>'+
                   '</div>'+   
                 '</div>'+     
