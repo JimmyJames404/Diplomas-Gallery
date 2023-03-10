@@ -4,111 +4,111 @@
             "num":"49",
             "name":"Web Design for Web Developer ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - Jonas Schmedtmann",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Web_Design_for_Web_Developer.png",
             "pdf":"'./diplomas/pdfs/Web_Design_for_Web_Developer.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://wycokck.udemy.com/course/web-design-secrets/learn/lecture/2744038?start=1#overview'"
         },
         {
             "num":"48",
             "name":"Practical Leadership Skills ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - Chris Croft",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Practical_Leadership_Skills.png",
             "pdf":"'./diplomas/pdfs/Practical_Leadership_Skills.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-147fdd8d-2ad3-498a-850c-278b3c0d927c.pdf'"
         },
         {
             "num":"47",
             "name":"Load Balancer ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy -  Tyco Taygo",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Load_balancer.png",
             "pdf":"'./diplomas/pdfs/Load_balancer.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-82b8577a-d1ca-4de3-97fd-03ee7a0c279f.pdf'"
         },
         {
             "num":"46",
             "name":"IT Troubleshooting Skill ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - Noel Temena",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/IT_Troubleshooting_Skill.png",
             "pdf":"'./diplomas/pdfs/IT_Troubleshooting_Skill.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-1b134577-c467-4a8a-918e-0fbca54d9d4b.pdf'"
         },
         {
             "num":"45",
             "name":"Cyber Security fundamentls",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - Station X - Nathan House",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Cyber_Security_fundamentls.png",
             "pdf":"'./diplomas/pdfs/Cyber_Security_fundamentls.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-04fb37db-48bd-4de5-937b-a020461266e3.pdf'"
         },
         {
             "num":"44",
             "name":"Inclusive Team Player ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"MARC Government Training Institute",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/How_to_be_an_Inclusive_Team_Player.png",
             "pdf":"'./diplomas/pdfs/How_to_be_an_Inclusive_Team_Player.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"NONE"
         },
         {
             "num":"43",
             "name":"Computer Forensics Fundamentals ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - John Boyle",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Computer_Forensics_Fundamentals.png",
             "pdf":"'./diplomas/pdfs/Computer_Forensics_Fundamentals.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-610a6554-1dcd-498a-bd2b-41963a467c7a.pdf'"
         },
         {
             "num":"42",
             "name":"ClickUp User  ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"ClickUp",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/Clickup_Novice.png",
             "pdf":"'./diplomas/pdfs/Clickup_Novice.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://verify.skilljar.com/c/ofjmxnjkm97i'"
         },
         {
             "num":"41",
             "name":"Agile Managment ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"Udemy - Agile KB - Mauriio Rubio ",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/certificate-agile.png",
             "pdf":"'./diplomas/pdfs/certificate-agile.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7fffec3-f8a9-4375-beb1-44d21831bf6e.pdf'"
         },
         {
             "num":"40",
             "name":"Diversity, Equity and Inclusion ",
             "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Google",
+            "granted":"MARC Government Training Institute",
             "category": "Development-and-Engineering",
             "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
             "image":"./diplomas/images/What_Is_Diversity_Equity_and_Inclusion.png",
             "pdf":"'./diplomas/pdfs/What_Is_Diversity_Equity_and_Inclusion.pdf'",
-            "online":"'https://www.coursera.org/account/accomplishments/verify/4JG4XKSM5PAW'"
+            "online":"NONE"
         },
         {
             "num":"39",
