@@ -44,8 +44,19 @@
             "pdf":"'./diplomas/pdfs/IT_Troubleshooting_Skill.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-1b134577-c467-4a8a-918e-0fbca54d9d4b.pdf'"
         },
-        {
+         {
             "num":"45",
+            "name":"Agile Managment ",
+            "description":"The Agile Management course covers the key concepts and tools of Agile Development, Project Delivery, and Project Management. It includes an introduction to user stories, daily stand-ups, retrospectives, and kanban boards. The course teaches you how to apply Agile in your job and projects, and the differences between Agile and traditional project delivery. You will also learn about the benefits and advantages of Agile and why it is the preferred development methodology in the modern world. The course delves into the history of Agile and why it is not only for developers or IT projects. Finally, the course covers how to use Agile to deliver quickly and often and how to use Agile to learn from your mistakes.",
+            "granted":"Udemy - Agile KB - Mauriio Rubio ",
+            "category": "Soft-skills",
+            "skills":"Agile Development, Agile Managment, User Stories, Retrospectives, kanban Board, Agile History",
+            "image":"./diplomas/images/certificate-agile.png",
+            "pdf":"'./diplomas/pdfs/certificate-agile.pdf'",
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7fffec3-f8a9-4375-beb1-44d21831bf6e.pdf'"
+        },
+        {
+            "num":"44",
             "name":"Cyber Security fundamentls",
             "description":"This expert course teaches practical skills to defeat all types of online threats, including advanced hackers, malware, cybercriminals, and more. It covers major platforms such as Windows, MacOS, and Linux and includes fundamental building blocks to understand the threat and vulnerability landscape. The course also explores the darknet and mindset of cybercriminals, global tracking and hacking infrastructures, and operating system security and privacy functionality. ",
             "granted":"Udemy - Station X - Nathan House",
@@ -56,7 +67,7 @@
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-04fb37db-48bd-4de5-937b-a020461266e3.pdf'"
         },
         {
-            "num":"44",
+            "num":"43",
             "name":"Inclusive Team Player ",
             "description":"This course is designed to equip individuals with the skills and knowledge needed to become an inclusive team player in any work environment. Throughout the course, participants will learn how to recognize and appreciate diversity, communicate effectively with colleagues from different backgrounds, and develop a deeper understanding of their own biases and assumptions.",
             "granted":"MARC Government Training Institute",
@@ -67,7 +78,7 @@
             "online":"NONE"
         },
         {
-            "num":"43",
+            "num":"42",
             "name":"Computer Forensics Fundamentals ",
             "description":"introductory course that provides foundational concepts and an understanding of the basics of computer forensics. The course covers topics such as hexadecimal and hashing, the process of collecting digital evidence, and creating, mounting, and exploring forensic digital images. Additionally, the course covers considerations for first responders to a computer crime scene. ",
             "granted":"Udemy - John Boyle",
@@ -78,7 +89,7 @@
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-610a6554-1dcd-498a-bd2b-41963a467c7a.pdf'"
         },
         {
-            "num":"42",
+            "num":"41",
             "name":"ClickUp User",
             "description":"This course provides an overview of the platform's basic functionalities, including creating and managing tasks, projects, and workflows. It covers essential features like setting up task statuses, using custom fields, creating and assigning tasks to team members, and managing notifications. Through a series of easy-to-follow video tutorials, the course teaches how to use ClickUp's intuitive user interface, making navigation through the software seamless.",
             "granted":"ClickUp",
@@ -87,17 +98,6 @@
             "image":"./diplomas/images/Clickup_Novice.png",
             "pdf":"'./diplomas/pdfs/Clickup_Novice.pdf'",
             "online":"'https://verify.skilljar.com/c/ofjmxnjkm97i'"
-        },
-        {
-            "num":"41",
-            "name":"Agile Managment ",
-            "description":"The Agile Management course covers the key concepts and tools of Agile Development, Project Delivery, and Project Management. It includes an introduction to user stories, daily stand-ups, retrospectives, and kanban boards. The course teaches you how to apply Agile in your job and projects, and the differences between Agile and traditional project delivery. You will also learn about the benefits and advantages of Agile and why it is the preferred development methodology in the modern world. The course delves into the history of Agile and why it is not only for developers or IT projects. Finally, the course covers how to use Agile to deliver quickly and often and how to use Agile to learn from your mistakes.",
-            "granted":"Udemy - Agile KB - Mauriio Rubio ",
-            "category": "Soft-skills",
-            "skills":"Agile Development, Agile Managment, User Stories, Retrospectives, kanban Board, Agile History",
-            "image":"./diplomas/images/certificate-agile.png",
-            "pdf":"'./diplomas/pdfs/certificate-agile.pdf'",
-            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7fffec3-f8a9-4375-beb1-44d21831bf6e.pdf'"
         },
         {
             "num":"40",
