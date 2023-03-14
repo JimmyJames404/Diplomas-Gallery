@@ -33,19 +33,8 @@
             "pdf":"'./diplomas/pdfs/Load_balancer.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-82b8577a-d1ca-4de3-97fd-03ee7a0c279f.pdf'"
         },
-        {
-            "num":"46",
-            "name":"IT Troubleshooting Skill ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
-            "granted":"Udemy - Noel Temena",
-            "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
-            "image":"./diplomas/images/IT_Troubleshooting_Skill.png",
-            "pdf":"'./diplomas/pdfs/IT_Troubleshooting_Skill.pdf'",
-            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-1b134577-c467-4a8a-918e-0fbca54d9d4b.pdf'"
-        },
          {
-            "num":"45",
+            "num":"46",
             "name":"Agile Managment ",
             "description":"The Agile Management course covers the key concepts and tools of Agile Development, Project Delivery, and Project Management. It includes an introduction to user stories, daily stand-ups, retrospectives, and kanban boards. The course teaches you how to apply Agile in your job and projects, and the differences between Agile and traditional project delivery. You will also learn about the benefits and advantages of Agile and why it is the preferred development methodology in the modern world. The course delves into the history of Agile and why it is not only for developers or IT projects. Finally, the course covers how to use Agile to deliver quickly and often and how to use Agile to learn from your mistakes.",
             "granted":"Udemy - Agile KB - Mauriio Rubio ",
@@ -54,6 +43,17 @@
             "image":"./diplomas/images/certificate-agile.png",
             "pdf":"'./diplomas/pdfs/certificate-agile.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7fffec3-f8a9-4375-beb1-44d21831bf6e.pdf'"
+        },
+        {
+            "num":"45",
+            "name":"IT Troubleshooting Skill ",
+            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "granted":"Udemy - Noel Temena",
+            "category": "Development-and-Engineering",
+            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "image":"./diplomas/images/IT_Troubleshooting_Skill.png",
+            "pdf":"'./diplomas/pdfs/IT_Troubleshooting_Skill.pdf'",
+            "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-1b134577-c467-4a8a-918e-0fbca54d9d4b.pdf'"
         },
         {
             "num":"44",
