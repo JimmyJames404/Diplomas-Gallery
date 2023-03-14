@@ -3,10 +3,10 @@
         {
             "num":"49",
             "name":"Web Design for Web Developer ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"The course provided practical techniques to improve the visual appeal of websites. And learned 25+ guidelines of amazing web design that cover text, color, images, fonts, icons, layout, whitespace, and visual hierarchy.",
             "granted":"Udemy - Jonas Schmedtmann",
             "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"UX, Web Design, Visual Hierarchy, Understanding of colors",
             "image":"./diplomas/images/Web_Design_for_Web_Developer.png",
             "pdf":"'./diplomas/pdfs/Web_Design_for_Web_Developer.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-c3008f3f-f5d0-4b0c-b798-e89f059d8c6b.pdf'"
@@ -14,10 +14,10 @@
         {
             "num":"48",
             "name":"Practical Leadership Skills ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"This practical course teaches essential leadership skills for effective time management, team motivation, and personal happiness. It covers topics such as delegating, differing leadership styles, monitoring, and planning for the future of your business. The course provides real-life examples and practical tools for immediate results.",
             "granted":"Udemy - Chris Croft",
             "category": "Soft-skills",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Leadership, Communication, Decision-Making, Problem-Solving, Strategic Thinking, Emotional Intelligence, Coaching and Mentoring, Delegation, Time Management, Conflict Resolution, Visionary Thinking, Creativity, Change Management, Ethics and Integrity, Team Building",
             "image":"./diplomas/images/Practical_Leadership_Skills.png",
             "pdf":"'./diplomas/pdfs/Practical_Leadership_Skills.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-147fdd8d-2ad3-498a-850c-278b3c0d927c.pdf'"
@@ -25,10 +25,10 @@
         {
             "num":"47",
             "name":"Load Balancer ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"The course covered topics such as connecting and licensing an F5 LTM device, assigning IP addresses, configuring virtual servers, creating monitors, and configuring SSL termination. By the end of the course, we are able to speak the F5 lingo and comfortably navigate through the F5 LTM device.",
             "granted":"Udemy -  Tyco Taygo",
             "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Load Balancing, Server Performance, Application Delivery, Scalability, Network Traffic, Redundancy, High Availability, Health Checks, SSL Offloading, Virtual IPs, Layer 4 vs. Layer 7 Load Balancing, Load Balancing Algorithms, Reverse Proxy, Content Switching, Global Server Load Balancing",
             "image":"./diplomas/images/Load_balancer.png",
             "pdf":"'./diplomas/pdfs/Load_balancer.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-82b8577a-d1ca-4de3-97fd-03ee7a0c279f.pdf'"
@@ -47,10 +47,10 @@
         {
             "num":"45",
             "name":"Cyber Security fundamentls",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"This expert course teaches practical skills to defeat all types of online threats, including advanced hackers, malware, cybercriminals, and more. It covers major platforms such as Windows, MacOS, and Linux and includes fundamental building blocks to understand the threat and vulnerability landscape. The course also explores the darknet and mindset of cybercriminals, global tracking and hacking infrastructures, and operating system security and privacy functionality. ",
             "granted":"Udemy - Station X - Nathan House",
             "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Cybersecurity, Information Security, Threats and Vulnerabilities, Malware, Network Security, Encryption, Authentication, Access Control, Incident Response, Risk Management, Cyber Crime, Cyber Ethics, Social Engineering, Cybersecurity Regulations, Cybersecurity Best Practices",
             "image":"./diplomas/images/Cyber_Security_fundamentls.png",
             "pdf":"'./diplomas/pdfs/Cyber_Security_fundamentls.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-04fb37db-48bd-4de5-937b-a020461266e3.pdf'"
@@ -58,10 +58,10 @@
         {
             "num":"44",
             "name":"Inclusive Team Player ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"This course is designed to equip individuals with the skills and knowledge needed to become an inclusive team player in any work environment. Throughout the course, participants will learn how to recognize and appreciate diversity, communicate effectively with colleagues from different backgrounds, and develop a deeper understanding of their own biases and assumptions.",
             "granted":"MARC Government Training Institute",
             "category": "Soft-skills",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Collaboration, Empathy, Communication, Active Listening, Conflict Resolution",
             "image":"./diplomas/images/How_to_be_an_Inclusive_Team_Player.png",
             "pdf":"'./diplomas/pdfs/How_to_be_an_Inclusive_Team_Player.pdf'",
             "online":"NONE"
@@ -69,21 +69,21 @@
         {
             "num":"43",
             "name":"Computer Forensics Fundamentals ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"introductory course that provides foundational concepts and an understanding of the basics of computer forensics. The course covers topics such as hexadecimal and hashing, the process of collecting digital evidence, and creating, mounting, and exploring forensic digital images. Additionally, the course covers considerations for first responders to a computer crime scene. ",
             "granted":"Udemy - John Boyle",
             "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Foundational Concepts, Hexadecimal, Hashing, Digital Evidence, Forensic Digital Images, First Responders, Computer Crime Scene, Digital Forensics Examination.",
             "image":"./diplomas/images/Computer_Forensics_Fundamentals.png",
             "pdf":"'./diplomas/pdfs/Computer_Forensics_Fundamentals.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-610a6554-1dcd-498a-bd2b-41963a467c7a.pdf'"
         },
         {
             "num":"42",
-            "name":"ClickUp User  ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "name":"ClickUp User",
+            "description":"This course provides an overview of the platform's basic functionalities, including creating and managing tasks, projects, and workflows. It covers essential features like setting up task statuses, using custom fields, creating and assigning tasks to team members, and managing notifications. Through a series of easy-to-follow video tutorials, the course teaches how to use ClickUp's intuitive user interface, making navigation through the software seamless.",
             "granted":"ClickUp",
             "category": "Development-and-Engineering",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Colaboartion, Organization, Automation, Workflows, Priorities",
             "image":"./diplomas/images/Clickup_Novice.png",
             "pdf":"'./diplomas/pdfs/Clickup_Novice.pdf'",
             "online":"'https://verify.skilljar.com/c/ofjmxnjkm97i'"
@@ -91,10 +91,10 @@
         {
             "num":"41",
             "name":"Agile Managment ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"The Agile Management course covers the key concepts and tools of Agile Development, Project Delivery, and Project Management. It includes an introduction to user stories, daily stand-ups, retrospectives, and kanban boards. The course teaches you how to apply Agile in your job and projects, and the differences between Agile and traditional project delivery. You will also learn about the benefits and advantages of Agile and why it is the preferred development methodology in the modern world. The course delves into the history of Agile and why it is not only for developers or IT projects. Finally, the course covers how to use Agile to deliver quickly and often and how to use Agile to learn from your mistakes.",
             "granted":"Udemy - Agile KB - Mauriio Rubio ",
             "category": "Soft-skills",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Agile Development, Agile Managment, User Stories, Retrospectives, kanban Board, Agile History",
             "image":"./diplomas/images/certificate-agile.png",
             "pdf":"'./diplomas/pdfs/certificate-agile.pdf'",
             "online":"'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7fffec3-f8a9-4375-beb1-44d21831bf6e.pdf'"
@@ -102,10 +102,10 @@
         {
             "num":"40",
             "name":"Diversity, Equity and Inclusion ",
-            "description":"Prepared for a entry-level IT Support Specialist, reiciving a introduction to the Information Tecnology, or IT, Learned about the different facets of IT, such as Hardware, Internet, Troubleshooting, and costumer service. Also practice assemble a computer from scratch, installed Operating Systems on a computer.",
+            "description":"The Diversity, Equity and Inclusion course is designed to help learners gain an understanding of the fundamental concepts of diversity, equity, and inclusion. It covers topics such as the impact of bias, power dynamics, and privilege on individuals and organizations, as well as strategies for creating inclusive work environments that foster belonging and respect for all individuals.",
             "granted":"MARC Government Training Institute",
             "category": "Soft-skills",
-            "skills":"Binary Code, Customer Support , Linux, Troubleshooting, Hardware, Operating System, Networking",
+            "skills":"Diversity, Equity, Inclusion, Bias, Allyship,Cultural competence, Empathy,Identity",
             "image":"./diplomas/images/What_Is_Diversity_Equity_and_Inclusion.png",
             "pdf":"'./diplomas/pdfs/What_Is_Diversity_Equity_and_Inclusion.pdf'",
             "online":"NONE"
