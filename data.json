@@ -1,6 +1,16 @@
 {
     "diploma":[
         {
+            "num":"50",
+            "name":"Cyber Security Course Volume1",
+            "granted":"Station X - Nathan House",
+            "category": "Development-and-Engineering",
+            "skills":"Cybersecurity, Information Security, Threats and Vulnerabilities, Malware, Network Security, Encryption, Authentication, Access Control, Incident Response, Risk Management, Cyber Crime, Cyber Ethics, Social Engineering, Cybersecurity Regulations, Cybersecurity Best Practices",
+            "image":"./diplomas/images/Cyber Security Course_Volume1_Certificate.png",
+            "pdf":"'./diplomas/pdfs/Cyber Security Course_Volume1_Certificate.pdf'",
+            "online":"'NONE'"
+        },
+        {
             "num":"49",
             "name":"Web Design for Web Developer ",
             "description":"The course provided practical techniques to improve the visual appeal of websites. And learned 25+ guidelines of amazing web design that cover text, color, images, fonts, icons, layout, whitespace, and visual hierarchy.",
