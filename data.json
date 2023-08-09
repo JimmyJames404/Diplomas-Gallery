@@ -1,6 +1,16 @@
 {
     "diploma":[
         {
+            "num":"52",
+            "name":"FME and CityWorks training",
+            "granted":"Safe Software Training",
+            "category": "Development-and-Engineering",
+            "skills":"Data Integration, Application Integration, Change Detector, Http Caller",
+            "image":"./diplomas/images/FMEandCityWorksTraining.png",
+            "pdf":"'./diplomas/pdfs/FMEandCityWorksTraining.pdf'",
+            "online":"NONE"
+        },
+        {
             "num":"51",
             "name":"Head Judge Appreciation",
             "granted":"Technovation  - Tara Chklovski",
